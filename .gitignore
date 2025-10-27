@@ -1,0 +1,17 @@
+﻿build/
+dist/
+venv/
+.venv/
+env/
+
+*.pt
+*.pth
+*.weights
+*.onnx
+
+runs/
+__pycache__/
+*.pyc
+
+*.mp4
+*.avi
